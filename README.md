@@ -9,3 +9,7 @@ GAME RULES:
 
 
 This project is based on DOM acesss and manipulation and event handling.
+Languages used - 
+1.HTML
+2.CSS
+3.JavaScript
